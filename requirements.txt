@@ -1,0 +1,6 @@
+Flask
+requests
+pycryptodome
+protobuf
+protobuf-decoder
+flask-cors
